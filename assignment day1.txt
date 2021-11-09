@@ -1,0 +1,4 @@
+1)Interpreter translates just one statement of the program at a time into machine code.
+2)Compiler scans the entire program and translate the whole of it into machine code at once.
+
+This is the difference between the Interpreter and Compiler.
